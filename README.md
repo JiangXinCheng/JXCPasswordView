@@ -3,9 +3,6 @@
 ##JXCPasswordView
 [github地址](https://github.com/JiangXinCheng/JXCPasswordView)
 
-###使用方法
-下载上面的项目，然后把JXCPasswordView的.h和.m文件拖到自己项目中
-
 在需要使用的地方引入头文件
 ```
 #import "JXCPasswordView.h"
